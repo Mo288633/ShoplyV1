@@ -1,0 +1,15 @@
+{
+      "welcome": "¡Bienvenido al Administrador de Bots de Tienda!",
+      "menu": {
+        "create_bot": "Crear Nuevo Bot de Tienda",
+        "my_bots": "Mis Bots de Tienda",
+        "language": "Cambiar Idioma",
+        "help": "Ayuda",
+        "payments": "Pagos"
+      },
+      "bot_creation": {
+        "enter_token": "Por favor ingrese su token de bot:",
+        "invalid_token": "Token inválido. Por favor intente nuevamente.",
+        "success": "¡Bot creado exitosamente!"
+      }
+    }

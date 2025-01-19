@@ -1,0 +1,15 @@
+{
+      "welcome": "Welcome to Shop Bot Manager!",
+      "menu": {
+        "create_bot": "Create New Shop Bot",
+        "my_bots": "My Shop Bots",
+        "language": "Change Language",
+        "help": "Help",
+        "payments": "Payments"
+      },
+      "bot_creation": {
+        "enter_token": "Please enter your bot token:",
+        "invalid_token": "Invalid token. Please try again.",
+        "success": "Bot created successfully!"
+      }
+    }

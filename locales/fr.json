@@ -1,0 +1,15 @@
+{
+      "welcome": "Bienvenue dans le Gestionnaire de Bots de Boutique!",
+      "menu": {
+        "create_bot": "Créer un Nouveau Bot de Boutique",
+        "my_bots": "Mes Bots de Boutique",
+        "language": "Changer de Langue",
+        "help": "Aide",
+        "payments": "Paiements"
+      },
+      "bot_creation": {
+        "enter_token": "Veuillez entrer votre token de bot:",
+        "invalid_token": "Token invalide. Veuillez réessayer.",
+        "success": "Bot créé avec succès!"
+      }
+    }
